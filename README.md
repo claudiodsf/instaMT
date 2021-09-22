@@ -10,4 +10,5 @@ The easiest way of using instaMT is to try it online!
 
 Click on the button below 👇
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/claudiodsf/instaMT/master?filepath=instaMT.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)
+](https://mybinder.org/v2/gh/claudiodsf/instaMT/master?urlpath=tree/instaMT.ipynb)
