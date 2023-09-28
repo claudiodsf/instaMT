@@ -1,7 +1,6 @@
 name: instaMT
 channels:
-  - defaults
   - conda-forge
 dependencies:
-  - python >= 3.6
-  - obspy >= 1.2.0
+  - python >= 3.9
+  - obspy >= 1.4.0
